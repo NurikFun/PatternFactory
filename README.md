@@ -1,5 +1,7 @@
 # PatternFactory
 
+Фабричный Метод определяет интерфейс создания объекта, но позволяет субклассам выбрать создаваемый экземпляр
+
 ![alt text](https://metanit.com/sharp/patterns/pics/factorymethod.png)
 
 
